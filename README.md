@@ -90,6 +90,7 @@ https://engineeringxpert.com/wp-content/uploads/2022/04/26.png
 
 ## STM 32 CUBE PROGRAM :
 ```
+//To Interface a push button and generate an interrupt , simulate it using an led and simuate it on  proteus 
 NAME: SUDHARSAN S
 Reg No: 212224040334
 #include "main.h"
